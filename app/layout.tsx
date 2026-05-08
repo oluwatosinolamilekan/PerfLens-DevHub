@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PerfLens Documentation",
+  title: "PerfLens - Developer Performance Platform",
   description:
-    "Modern documentation for PerfLens, a Chrome extension for web performance audits and code quality insights.",
+    "Startup-grade developer platform for web performance audits, Core Web Vitals, SEO, accessibility, and exportable product evidence.",
 };
 
 export default function RootLayout({
